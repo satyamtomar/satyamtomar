@@ -1,5 +1,6 @@
 <p align='center'><img  src='https://media.giphy.com/media/PkSHEWBqHKBt0R48rL/giphy.gif'></p>
-<h1 align="center">You must be tired...have a cookie🍪.</h1>
+<h3 align="center">You must be tired...have a cookie🍪.</h3>
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
