@@ -1,5 +1,4 @@
-<h1 align="center">Hey 👋, I am Satyam  </h1>
-<p align='center'><img  src='https://media.giphy.com/media/LvkZeIZ9YjbpU4xrJ9/giphy.gif'   ></p>
+<h1 align='center'><img  src='https://media.giphy.com/media/LvkZeIZ9YjbpU4xrJ9/giphy.gif'   ></h1>
 <h3 align="center">You must be tired...have a cookie🍪.</h3>
 
 <h3 align="left">Connect with me:</h3>
