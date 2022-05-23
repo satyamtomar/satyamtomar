@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/satyam-tomar-0873a91b0" target="blank"><img align="center" src="./img/ic_linkedin.svg" alt="satyam-tomar-0873a91b0" height="30" width="40" /></a>
 </p>
-
-<p align="center">&nbsp;<a class="social-icon si-rounded si-small si-linkedin" aria-hidden="true"></p>
-
+<br>
+<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=satyamtomar&show_icons=true&locale=en" alt="satyamtomar" /></p>
+<br>
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=satyamtomar&theme=default" alt="satyamtomar" /></p>
