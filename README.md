@@ -6,6 +6,7 @@
 <a href="https://linkedin.com/in/satyam-tomar-0873a91b0" target="blank"><img align="center" src="./img/ic_linkedin.svg" alt="satyam-tomar-0873a91b0" height="30" width="40" /></a>
 </p>
 <br>
-<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=satyamtomar&show_icons=true&locale=en" alt="satyamtomar" /></p>
+<p align="center">&nbsp;<img width='45%' src="https://github-readme-stats.vercel.app/api?username=satyamtomar&show_icons=true&locale=en&theme=jolly" alt="satyamtomar" />
+<img width='45%'  src="https://github-readme-streak-stats.herokuapp.com/?user=satyamtomar&&theme=jolly" alt="satyamtomar" /></p>
 <br>
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=satyamtomar&theme=default" alt="satyamtomar" /></p>
+<p align="center"></p>
