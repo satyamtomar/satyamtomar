@@ -3,7 +3,7 @@
 <h1></h1>
 <table align='center'>
 <td>
-<p align='center'>Web Developer | Freelancer<br>
+<p >Web Developer | Freelancer<br>
 I am a third year IT student at NIT Kurukshetra.<br>
 Currently doing freelancing in web development and improving my skills.<br>
 </p>
