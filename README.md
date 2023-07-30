@@ -12,4 +12,5 @@
 <h1></h2>
 <br>
 <p align="center">&nbsp;<img width='48%' src="https://github-readme-stats.vercel.app/api?username=satyamtomar&show_icons=true&locale=en&theme=algolia" alt="satyamtomar" />
+  <br>
 <img width='48%'  src="https://github-readme-streak-stats.herokuapp.com/?user=satyamtomar&&theme=algolia" alt="satyamtomar" /></p>
