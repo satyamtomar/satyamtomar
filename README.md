@@ -1,7 +1,7 @@
 <p align='center'><a href='https://portfolio-satyamtomar.vercel.app'><img  src='https://media.giphy.com/media/PkSHEWBqHKBt0R48rL/giphy.gif'></a></p>
 <h3 align="center">You must be tired...play some games .</h3>
 <h3> <a href="https://brick-breaking-game.vercel.app/">Brick Breaker Game</h3>
-<div align="space-between">
+<div align="center">
   <h3> <a href="https://asteroidshootinggame.vercel.app/">Asteroid Shooting Game</h3>
 <h3 align='center'>My portfolio link: <a href="https://portfolio-satyamtomar.vercel.app">click here(or click on the gif) </a> </h3>
 <h1></h1>
