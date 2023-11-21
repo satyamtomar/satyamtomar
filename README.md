@@ -1,6 +1,7 @@
-<p align='center'><a href='https://portfolio-satyamtomar.vercel.app'><img  src='https://media.giphy.com/media/PkSHEWBqHKBt0R48rL/giphy.gif'></a></p>
-<h3 align="center">You must be tired...have a cookie🍪.</h3>
-
+<img width="1314" alt="Screenshot 2023-11-21 at 2 25 18 PM" src="https://github.com/satyamtomar/satyamtomar/assets/73239975/d7452309-b30d-4b23-9314-5e017e0f906b"><p align='center'><a href='https://portfolio-satyamtomar.vercel.app'><img  src='https://media.giphy.com/media/PkSHEWBqHKBt0R48rL/giphy.gif'></a></p>
+<h3 align="center">You must be tired...play some games .</h3>
+<h3 <a href="https://brick-breaking-game.vercel.app/">Brick Breaker Game</h3>
+<h3 <a href="https://asteroidshootinggame.vercel.app/">Asteroid Shooting Game</h3>
 <h3 align='center'>My portfolio link: <a href="https://portfolio-satyamtomar.vercel.app">click here(or click on the gif) </a> </h3>
 <h1></h1>
 
